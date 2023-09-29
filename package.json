@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "0.0.0-experimental-13d0225c7-20230928",
+    "react-dom": "0.0.0-experimental-13d0225c7-20230928"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
